@@ -1,0 +1,102 @@
+Time and Date Commands:
+"Jarvis what's the time"
+"Jarvis what's today's date"
+"Jarvis set an alarm for [time]"
+"Jarvis remind me to [task] in [time]"
+
+System Operations:
+"Jarvis system status"
+"Jarvis CPU usage"
+"Jarvis memory usage"
+"Jarvis battery status"
+"Jarvis take a screenshot"
+"Jarvis shutdown computer"
+"Jarvis restart computer"
+"Jarvis lock computer"
+"Jarvis sleep computer"
+
+Web Operations:
+"Jarvis open youtube"
+"Jarvis search youtube for [query]"
+"Jarvis open google"
+"Jarvis search google for [query]"
+"Jarvis open [website]" (e.g., "open facebook")
+"Jarvis what's trending on google"
+"Jarvis search Wikipedia [topic]"
+"Jarvis read Wikipedia [topic]"
+
+Weather Information:
+"Jarvis what's the weather"
+"Jarvis what's the weather in [city]"
+"Jarvis weather forecast"
+"Jarvis will it rain today"
+"Jarvis temperature in [city]"
+
+File Operations:
+"Jarvis open documents folder"
+"Jarvis open downloads"
+"Jarvis create new folder [name]"
+"Jarvis list files in [folder]"
+"Jarvis search for file [name]"
+
+Application Control:
+"Jarvis open notepad"
+"Jarvis open calculator"
+"Jarvis open paint"
+"Jarvis open control panel"
+"Jarvis close [application]"
+
+Media Controls:
+"Jarvis volume up"
+"Jarvis volume down"
+"Jarvis mute"
+"Jarvis unmute"
+"Jarvis play music"
+"Jarvis pause music"
+"Jarvis next track"
+"Jarvis previous track"
+
+Information Queries:
+"Jarvis tell me a joke"
+"Jarvis tell me a fact"
+"Jarvis define [word]"
+"Jarvis calculate [math expression]"
+"Jarvis convert [amount] [currency] to [currency]"
+"Jarvis news headlines"
+"Jarvis sports updates"
+
+System Settings:
+"Jarvis increase brightness"
+"Jarvis decrease brightness"
+"Jarvis enable wifi"
+"Jarvis disable wifi"
+"Jarvis enable bluetooth"
+"Jarvis disable bluetooth"
+Personal Assistant Features:
+"Jarvis make a note"
+"Jarvis read my notes"
+"Jarvis add to todo list [task]"
+"Jarvis show my todo list"
+"Jarvis clear todo list"
+"Jarvis set a timer for [time]"
+
+Fun Commands:
+"Jarvis roll a dice"
+"Jarvis flip a coin"
+"Jarvis random number between [x] and [y]"
+"Jarvis play rock paper scissors"
+
+Assistant Control:
+"Jarvis change voice"
+"Jarvis speak faster"
+"Jarvis speak slower"
+"Jarvis stop listening"
+"Jarvis goodbye" (to exit)
+"Jarvis help" (lists available commands)
+"Jarvis version"
+
+Custom Commands:
+"Jarvis remember this [information]"
+"Jarvis what did I tell you about [topic]"
+"Jarvis forget [topic]"
+"Jarvis clear memory"
